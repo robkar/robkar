@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+
+I work in the applied biostatistics group at the [Department of Medical Epidemiology and Biostatistics](https://ki.se/en/meb), [Karolinska Institutet](https://ki.se/).
+
+I enjoy working with human genetic data, including tasks in statistical analysis, research computing, and data management.
 
 <!--
 **robkar/robkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
